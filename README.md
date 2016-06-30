@@ -5,10 +5,7 @@ Assessed a portion of the OpenStreetMap data for validity, accuracy, completenes
 
 Topics include:
 
--Python
-
--MongoDB
-
--Data Verification
-
--Data Cleaning 
+- Python
+- MongoDB
+- Data Verification
+- Data Cleaning 
