@@ -1,5 +1,5 @@
 # Wrangle OpenStreetMap Data
-Udacity_Project_3
+Udacity Project 3
 
 Summary:
 
